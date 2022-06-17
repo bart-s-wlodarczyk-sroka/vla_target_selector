@@ -1,0 +1,3 @@
+array_1:target:radec
+array_1:subarray_1_streams_wide_antenna_channelised_voltage_centre_frequency
+array_1:duration
