@@ -1,0 +1,20 @@
+mk_target_selector/helper.py:19:    # TODO: I don't think this way of calculating the obs time is correct
+mk_target_selector/helper.py:27:        # TODO: placeholder epoch time in except block. Change!
+mk_target_selector/mk_redis.py:51:        # TODO: replace this once a more permanent fix is found. Meant to handle
+mk_target_selector/mk_redis.py:97:        # TODO: do something with the product_id
+mk_target_selector/mk_redis.py:115:        # TODO: think of a way to handle multiple sub-array (product_ids) at one time
+mk_target_selector/mk_redis.py:119:            # TODO: Fix this so that if a deconfigure message comes through before
+mk_target_selector/mk_redis.py:145:        # TODO: do something with the product_id
+mk_target_selector/mk_redis.py:148:        # TODO: SUPER HACKY CHANGE THIS AS SOON AS POSSIBLE
+mk_target_selector/mk_redis.py:182:        # TODO: Fix this as soon as possible!!!
+mk_target_selector/mk_redis.py:188:            # TODO: replace with data_suspect, more accurate
+mk_target_selector/mk_redis.py:199:        # TODO: use this function to time observations
+mk_target_selector/mk_redis.py:313:        # TODO: change this to the real name
+mk_target_selector/mk_redis.py:372:                # TODO: do something with this value
+mk_target_selector/mk_redis.py:382:            # TODO: Add something that makes more sense
+mk_target_selector/mk_db.py:27:    # TODO: handle inclusion of other databases in the
+mk_target_selector/mk_db.py:127:        # TODO: Use data_suspect instead
+mk_target_selector/mk_db.py:242:        # TODO replace these with sqlalchemy queries
+mk_target_selector/mk_db.py:281:        # TODO: replace with sqlalchemy queries
+mk_target_selector/mk_delay.py:9:    # TODO: Figure of the geometry of the MeerKAT telescope position coordinates
+mk_target_selector/mk_delay.py:44:    # TODO: Add logger here
